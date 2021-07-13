@@ -36,7 +36,8 @@ To view/modify the files from this repository, install KiCAD from: https://kicad
 ## Plots
 
 ### Front View 
-![Front view](https://user-images.githubusercontent.com/84867886/122984817-0fa8d500-d3bb-11eb-897a-83394be58bb3.png)
+![LSA frontview](https://user-images.githubusercontent.com/84867886/125447199-a9c9cbe9-9ce0-4904-8669-9d5344ad53c7.png)
+
 
 
 ### Back View
