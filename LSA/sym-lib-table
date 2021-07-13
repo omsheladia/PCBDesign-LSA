@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name lsaa-rescue)(type Legacy)(uri ${KIPRJMOD}/lsaa-rescue.lib)(options "")(descr ""))
+  (lib (name l)(type Legacy)(uri "/Library/Application Support/kicad/library/Potentiometer_Digital.lib")(options "")(descr ""))
+)

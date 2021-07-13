@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM324N
+D OP Amp Quad GP 16V/32V 14-Pin PDIP Texas Instruments LM324N, Quad Op Amp, 1.2MHz, 5-28 V, 14-Pin PDIP
+K
+F http://www.ti.com/lit/ds/symlink/lm324-n.pdf
+$ENDCMP
+#
+#End Doc Library
